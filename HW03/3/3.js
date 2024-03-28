@@ -12,11 +12,11 @@
 
 // Здесь пишем решение, данный комментарий необходимо стереть.
 
-function Greatest(num1, num2, num3) {
+function greatest(num1, num2, num3) {
   console.log(Math.max(num1, num2, num3));
 }
 // const number1 = Number(prompt("Enter 1st number"));
 // const number2 = Number(prompt("Enter 2nd number"));
 // const number3 = Number(prompt("Enter 3rd number"));
 
-// Greatest(number1, number2, number3);
+// greatest(number1, number2, number3);

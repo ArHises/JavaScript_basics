@@ -16,7 +16,8 @@ function toNeto(salary) {
 }
 
 // const salary = Number(prompt("Enter your bruto salary:"));
-// if (salary != NaN && salary > 0) {
+// if (Number.isFinite(salary) && salary > 0) {
+//   // Number.isFinite(num) = Neither Nan nor infinity
 //   toNeto(salary);
 // } else {
 //   alert("Wrong Number!");
